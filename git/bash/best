@@ -1,2 +1,2 @@
-#!/bin/bash
+# Change echo "Best" to echo "This School is so cool!"#!/bin/bash
 echo "Best"
